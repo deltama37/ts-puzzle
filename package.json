@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/deltama37/ts-puzzle/issues"
   },
-  "homepage": "https://github.com/deltama37/ts-puzzle#readme"
+  "homepage": "https://github.com/deltama37/ts-puzzle#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
+    "@typescript-eslint/parser": "^4.31.0",
+    "eslint": "^7.32.0",
+    "prettier": "2.3.2"
+  },
+  "dependencies": {
+    "typescript": "^4.4.2"
+  }
 }
